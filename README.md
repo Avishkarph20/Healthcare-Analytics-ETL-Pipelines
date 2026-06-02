@@ -2,7 +2,7 @@ Healthcare Analytics ETL Pipeline
 A data engineering ecosystem built on Databricks utilizing a Medallion Architecture to process transactional healthcare records. The pipeline transforms, validates, and reorganizes raw medical, clinical, and financial datasets into an optimized relational Star Schema tailored for executive BI dashboards.
 
 Architecture
-
+![This is Overall Architeture](https://github.com/Avishkarph20/Healthcare-Analytics-ETL-Pipelines/blob/main/Architecture.png)
 
 
 Technologies Used
