@@ -19,6 +19,6 @@ billing.csv: Financial transaction ledger containing claim amounts and insurance
 admissions.csv: Administrative tracking facility records documenting check-in and check-out boundaries and room configurations.
 
 
-Complete Tutorial Video
-
+Complete Walkthrough Video
+![This is complete Walktrough of Project](https://github.com/Avishkarph20/Healthcare-Analytics-ETL-Pipelines/blob/main/Healthcare_ETL_Pipeline.mp4)
 
